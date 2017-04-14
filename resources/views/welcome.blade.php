@@ -16,5 +16,4 @@
 </div>
 @endsection
 
-// esta bueno parece
-// solo test
+// Probado tiempo de respuesta de git 
